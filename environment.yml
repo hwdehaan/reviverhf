@@ -4,6 +4,8 @@ channels:
 dependencies:
   - voila
   - ipywidgets
+  - ipykernel
+  - pip
   - matplotlib
   - scipy
 
